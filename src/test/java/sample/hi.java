@@ -9,6 +9,11 @@ public class hi {
 		System.out.println("hiiiiiii");
 		System.out.println("Hello");
 		int a;
+		System.out.println("Hello");
+		System.out.println("Hello");
+
+		System.out.println("Hello");
+		System.out.println("Hello");
 	}
 
 }
